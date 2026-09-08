@@ -1,12 +1,11 @@
 <div align="center">
 
-# 🛡️ Cybersecurity Home Lab
+#  Cybersecurity Home Lab
 
 ### Building a Practical Cybersecurity Learning Environment on Kali Linux
 
-**Created by Brian Machayo (CypherOT)**
+**Created by Brian Machayo (CypherOTW)**
 
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-red?style=for-the-badge)]()
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-Latest-blue?style=for-the-badge&logo=kalilinux)]()
 [![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux)]()
 [![Networking](https://img.shields.io/badge/Networking-Security-green?style=for-the-badge)]()
@@ -16,9 +15,9 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
-This repository documents the creation and configuration of my personal Cybersecurity Home Lab built on Kali Linux.
+I have documented the creation and configuration of my personal Cybersecurity Home Lab built on Kali Linux.
 
 The lab serves as a dedicated environment for learning, experimenting, and developing practical skills in:
 
@@ -35,27 +34,24 @@ The objective is to gain hands-on experience with industry-standard cybersecurit
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The goals of this project include:
+ Build a stable cybersecurity workstation
 
-✅ Install and configure Kali Linux
+ Configure network connectivity
 
-✅ Build a stable cybersecurity workstation
+ Install and test security tools
 
-✅ Configure network connectivity
+ Learn Linux system administration
 
-✅ Install and test security tools
+ Practice network reconnaissance
 
-✅ Learn Linux system administration
+ Develop ethical hacking skills
 
-✅ Practice network reconnaissance
+ Document configurations and findings
 
-✅ Develop ethical hacking skills
-
-✅ Document configurations and findings
-
-✅ Build a cybersecurity portfolio
+ Build a cybersecurity portfolio
 
 ---
 
@@ -101,7 +97,7 @@ The goals of this project include:
 
 ## Kali Linux Desktop
 
-![Kali Desktop](screenshots/kali-desktop.jpg)
+![Kali Desktop](https://github.com/PrudenceMatrix/NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP/commit/4befbe9e4452872fe9a41e1c567179c72e73cab6)
 
 ---
 

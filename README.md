@@ -97,25 +97,25 @@ The goals of this project include:
 
 ## Kali Linux Desktop
 
-![Kali Desktop](https://github.com/PrudenceMatrix/NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP/commit/4befbe9e4452872fe9a41e1c567179c72e73cab6)
+![Kali Desktop](Screenshot_2026-09-04-33-1.png)
 
 ---
 
 ## System Information
 
-![System Information](screenshots/system-info.jpg)
+![System Information](Screenshot_2026-09-07_04_36_21.png)
 
 ---
 
 ## Network Configuration
 
-![Network Configuration](screenshots/network-config.jpg)
+![Network Configuration](Screenshot_2026-09-07_04_48_53.png)
 
 ---
 
 ## Security Tools Verification
 
-![Tools Installed](screenshots/tools-installed.jpg)
+![Tools Installed](screenshot_2026_09_07[13:02].png)
 
 ---
 

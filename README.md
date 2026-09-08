@@ -318,11 +318,11 @@ Cybersecurity | Cloud Security | AI & Machine Learning
 
 ### GitHub
 
-https://github.com/YOUR_USERNAME
+https://github.com/prudencematrix
 
 ### LinkedIn
 
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/brian-machayo
 
 ---
 
